@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author ALLEN VIQUEZ
+ * @Fecha de actualizacion 09 Julio de 2020 18:21 hrs.
  */
 public class Repo1 {
 
