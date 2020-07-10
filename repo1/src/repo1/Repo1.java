@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author fvp
+ * @author ALLEN VIQUEZ
  */
 public class Repo1 {
 
