@@ -8,6 +8,7 @@ package repo1;
 /**
  *
  * @author fvp
+ * victor
  */
 public class ClaseHija_Consulta extends ClasePadre_Abstracta {
     
